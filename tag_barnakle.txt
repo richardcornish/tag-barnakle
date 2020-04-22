@@ -2,7 +2,7 @@
 # https://blog.confiant.com/tag-barnakle-the-malvertiser-that-hacks-revive-ad-servers-redirects-victims-to-malware-50cdc57435b1
 
 127.0.0.1	localhost
-::1			localhost
+::1		localhost
 
 # Barnakle-owned cloaking domains
 127.0.0.1	advertwork.com
